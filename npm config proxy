@@ -14,6 +14,7 @@ npm config get proxy<T> -g  --获取config某一项配置
 npm config set proxy<T> -g  --设置config某一项配置
 npm config delete proxy<T> -g --删除config某一项配置
 
-1. http:proxy
-2. https-proxy
+1. http:  proxy
+2. https: https-proxy
+3. 镜像源: registry
 ```

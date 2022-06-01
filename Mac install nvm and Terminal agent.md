@@ -1,13 +1,13 @@
 ## Mac安装nvm
 ### 有科学上网 
- ####curl: (35) LibreSSL SSL_connect: Connection reset by peer in connection to raw.githubusercontent.com:443 
- ####curl: (7) ~~~
+ #### curl: (35) LibreSSL SSL_connect: Connection reset by peer in connection to raw.githubusercontent.com:443 
+ #### curl: (7) ~~~
  ##### 网络问题  具体原因不详 
 ### 解决方案  ：使用终端代理
   curl cip.cc     测试自己端口  ip
   
 
-##修改本次终端下的代理端口  一次性使用  
+## 修改本次终端下的代理端口  一次性使用  
 ### export https_proxy=http://127.0.0.1:4780 
 ### export http_proxy=http://127.0.0.1:4780 
 
